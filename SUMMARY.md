@@ -8,5 +8,6 @@
 * 配置
     * [book.json](config/config.md)
     * [常用插件](config/plugin.md)
+* [项目](project/README.md)
 * [高阶用法](higher/higher.md)
 
